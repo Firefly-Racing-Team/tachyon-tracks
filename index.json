@@ -1,0 +1,18 @@
+{
+ "schema": 1,
+ "updated": "2026-11-05",
+ "tracks": [
+  {
+   "id": "fa9c3a8a-ffe4-4888-8860-b17822c43d5e",
+   "name": "Kartodromo La Conca",
+   "country": "IT",
+   "place": "Muro Leccese (Lecce)",
+   "variant": "",
+   "version": 1,
+   "updated": "2026-11-05",
+   "length_m": 1220,
+   "sha256": "ec8b06079dcefef6d020d8ff6721fae738ab38dc75b866a13b8cfabce2799975",
+   "file": "tracks/fa9c3a8a-ffe4-4888-8860-b17822c43d5e.json"
+  }
+ ]
+}
